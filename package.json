@@ -20,7 +20,7 @@
     "reactstrap": "^8.2.0",
     "sha256": "^0.2.0",
     "sound-play": "^1.0.5",
-    "stellar-sdk": "^3.3.0"
+    "stellar-sdk": "^8.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
